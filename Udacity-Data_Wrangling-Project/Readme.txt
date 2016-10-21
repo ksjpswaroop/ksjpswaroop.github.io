@@ -1,1 +1,0 @@
-This is the 2nd Project in the Udacity Data Analyst Nanodegree. The Project is about Data Wrangling and identifying issues in Open maps for Hyderabad.
